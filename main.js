@@ -1,1 +1,1 @@
-alert("Hello depuis Javascript !")
+console.log("Hello depuis Javascript !")
